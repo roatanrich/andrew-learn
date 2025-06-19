@@ -9,7 +9,7 @@
 think name, game type, person, year created, last played
 
 | Name | GameType | Person | YearCreated | LastPlayed |
-|--------------|--------------|--------------|--------------|--------------|
+|-|-|-|-|-|
 | Borderlands | XBox | Rich | 2009 | 2025 |
 | Assassins Creed Shadows | XBox  | Rich | 2025 | 2025 |
 | Risk | Board  | Andrew | 2025 | 2024 |
