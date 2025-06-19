@@ -6,6 +6,23 @@
 ### what is a database
 ### project name
 ### what "attributes" or "columns" should be in my project
+think name, game type, person, year created, last played
+
+| Name | GameType | Person | YearCreated | LastPlayed |
+|--------------|--------------|--------------|--------------|--------------|
+| Borderlands | XBox | Rich | 2009 | 2025 |
+| Assassins Creed Shadows | XBox  | Rich | 2025 | 2025 |
+| Risk | Board  | Andrew | 2025 | 2024 |
+| Risk | Online  | Rich | 2007 | 2017 |
+| Uno | Card  | Andrew | 1971 | 2024 |
+| Uno | Card  | Tristan | 1971 | 2024 |
+| Monopoly | Board  | Tristan | 1935 | 2024 |
+| Monopoly | Board  | Andrew | 1935 | 2024 |
+| Monopoly | Board  | Rich | 1935 | 2024 |
+| Monopoly | Board  | Jennifer | 1935 | 2024 |
+
+
+
 ### think about nouns
 
 ### learn how to link databricks with github
