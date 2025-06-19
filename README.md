@@ -18,7 +18,7 @@
 Short description of your project — what it does and why it’s useful.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Build](https://img.shields.io/github/actions/workflow/status/your-org/your-repo/ci.yml)
+![Build](https://img.shields.io/github/actions/workflow/status/roatanrich/andrew-learn/ci.yml)
 
 ---
 
