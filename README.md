@@ -8,5 +8,6 @@
 ### what "attributes" or "columns" should be in my project
 ### think about nouns
 
+### learn how to link databricks with github
 
 
