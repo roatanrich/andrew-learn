@@ -9,6 +9,7 @@
 ### think about nouns
 
 ### learn how to link databricks with github
+put this in gpt: "show how to connect databricks with github"
 
 
 # Here is some markdown examples for you Rooster
