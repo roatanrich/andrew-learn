@@ -16,9 +16,9 @@ Categorizes games our family plays, useful for learning how to code
 - 🔧 Feature 5: Identifies what people play the game on
 ---
 
-## Table Structure
+## GamePlay Table Structure
 
-| ID | Name | GameType | Person | YearCreated | LastPlayed |
+| ID | GameName | GameType | Person | YearCreated | LastPlayed |
 |-|-|-|-|-|-|
 | 01 | Borderlands | XBox | Rich | 2009 | 2025 |
 | 02 | Assassins Creed Shadows | XBox  | Rich | 2025 | 2025 |
