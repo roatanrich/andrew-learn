@@ -30,3 +30,18 @@ Categorizes games our family plays, useful for learning how to code
 | 08 | Monopoly | Board  | Andrew | 1935 | 2024 |
 | 09 | Monopoly | Board  | Rich | 1935 | 2024 |
 | 10 | Monopoly | Board  | Jennifer | 1935 | 2024 |
+
+## GamePlay Table W/FK
+
+| ID | GameName | GameType | Person | YearCreated | LastPlayed |
+|-|-|-|-|-|-|
+| 01 | 1 | 1 | 2 | 2009 | 2025 |
+| 02 | 2 | 1  | 2 | 2025 | 2025 |
+| 03 | 3 | 2  | 1 | 2025 | 2024 |
+| 04 | 3 | 3  | 2 | 2007 | 2017 |
+| 05 | 4 | 4  | 1 | 1971 | 2024 |
+| 06 | 4 | 4  | 3 | 1971 | 2024 |
+| 07 | 5 | 2  | 3 | 1935 | 2024 |
+| 08 | 5 | 2  | 1 | 1935 | 2024 |
+| 09 | 5 | 2  | 2 | 1935 | 2024 |
+| 10 | 5 | 2  | 4 | 1935 | 2024 |
