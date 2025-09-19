@@ -33,7 +33,7 @@ Categorizes games our family plays, useful for learning how to code
 
 ## GamePlay Table W/FK
 
-| ID | GameName | GameType | Person | YearCreated | LastPlayed |
+| ID | Dim_Game_Name_ID | Dim_Game_Type_ID | Dim_Person_ID | YearCreated | LastPlayed |
 |-|-|-|-|-|-|
 | 01 | 1 | 1 | 2 | 2009 | 2025 |
 | 02 | 2 | 1  | 2 | 2025 | 2025 |
@@ -45,3 +45,31 @@ Categorizes games our family plays, useful for learning how to code
 | 08 | 5 | 2  | 1 | 1935 | 2024 |
 | 09 | 5 | 2  | 2 | 1935 | 2024 |
 | 10 | 5 | 2  | 4 | 1935 | 2024 |
+
+## Game Name Dimension Table
+
+| ID | Dim_Game_Name_ID | Game_Name |
+|-|-|-|
+| 01 | 1 | Borderlands |
+| 02 | 2 | Assassins Creed Shadows |
+| 03 | 3 | Risk |
+| 04 | 4 | Uno |
+| 05 | 5 | Monopoly | 
+
+## Game Type Dimension Table
+
+| ID | Dim_Game_Type_ID | Game_Type |
+|-|-|-|
+| 01 | 1 | XBOX |
+| 02 | 2 | Board |
+| 03 | 3 | Online |
+| 04 | 4 | Card |
+
+## Person Dimension Table
+
+| ID | Dim_Person_ID | Person |
+|-|-|-|
+| 01 | 1 | Andrew |
+| 02 | 2 | Rich |
+| 03 | 3 | Tristan |
+| 04 | 4 | Jennifer |
